@@ -1,0 +1,15 @@
+#h{
+    font-family: fantasy;
+    font-weight: 900;
+    text-align: center;
+    padding: 30px;
+    background-color: azure;
+    background-size: cover;
+}
+.score{
+    padding: 20px;
+}
+
+body{
+    background-image: url(Images/acad_background.avif);
+}
